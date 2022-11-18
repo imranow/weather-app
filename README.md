@@ -4,7 +4,7 @@ This is a weather app project I built from a tutorial using React. The app is ho
 
 # API
 
-The API i used was from  http://openweathermap.org/
+The API I used was from  http://openweathermap.org/
 
 # Getting Started with Create React App
 
