@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 This is a weather app project I built from a tutorial using React. The app is hosted on here: https://papaya-melba-4c6e33.netlify.app/
 
